@@ -1,18 +1,14 @@
-# Advanced_Data_Structures_Projects
+# Advanced Data Structure (CS3114)
 
 
-Since I am not allowed to publicly display my projects for this class, below I have posted password proctected links as well as what major data structures were used for each project. 
+Since I am not allowed to publicly display my projects for this class, you (recruiter/interviewer) have two means of obtaining my code to look over it at your lesiure. 
 
-In order to obtain the password you can do one of two things:
-*Email me at topher23@vt.edu 
-*If you have a copy of my resume after 11/02/15 the password should be at the top of the resume. 
+1. Email me at topher23@vt.edu and I will give you the link
+2. If you have a copy of my resume after 11/02/15 the shortened unshared link should be at the top. 
 
 
+Data Structures Used: 
 Project 1 - Min Heap, Dependancy Table of Nested Lists, Arrays
-
 Project 2 - Quad Tree, Linked List
-
-Project 3 - Simple Memory Manager using First Fit approach, Linked List, Arrays
-
+Project 3 - Simple Memory Manager using First Fit approach, Binary File Manipulation, Self-Made Linked List, Arrays
 Project 4 - TBD
-
