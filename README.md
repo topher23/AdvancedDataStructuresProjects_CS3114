@@ -9,6 +9,9 @@ Since I am not allowed to publicly display my projects for this class, you (recr
 
 Data Structures Used: 
 Project 1 - Min Heap, Dependancy Table of Nested Lists, Arrays
+
 Project 2 - Quad Tree, Linked List
+
 Project 3 - Simple Memory Manager using First Fit approach, Binary File Manipulation, Self-Made Linked List, Arrays
+
 Project 4 - TBD
