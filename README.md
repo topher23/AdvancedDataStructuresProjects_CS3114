@@ -7,11 +7,8 @@ Since I am not allowed to publicly display my projects for this class, you (recr
 2. If you have a copy of my resume after 11/02/15 the shortened unshared link should be at the top. 
 
 
-Data Structures Used: 
-Project 1 - Min Heap, Dependancy Table of Nested Lists, Arrays
-
-Project 2 - Quad Tree, Linked List
-
-Project 3 - Simple Memory Manager using First Fit approach, Binary File Manipulation, Self-Made Linked List, Arrays
-
-Project 4 - TBD
+Data Structures Used For Each Project: 
+1. Min Heap, Dependancy Table of Nested Lists, Arrays
+2. Quad Tree, Linked List
+3. Simple Memory Manager using First Fit approach, Binary File Manipulation, Self-Made Linked List, Arrays
+4. TBD
